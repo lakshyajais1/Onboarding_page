@@ -3,4 +3,4 @@
 # NYX Website
 
 Live Website:
-https://your-netlify-link.netlify.app
+https://peppy-crostata-cba211.netlify.app/
